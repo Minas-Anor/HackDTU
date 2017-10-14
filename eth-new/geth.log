@@ -1,0 +1,51 @@
+WARN [10-14|07:22:48] No etherbase set and no accounts found as default 
+INFO [10-14|07:22:48] Starting peer-to-peer node               instance=Geth/v1.7.1-stable-05101641/linux-amd64/go1.9
+INFO [10-14|07:22:48] Allocated cache and file handles         database=/home/yash/hackdtu/eth-new/eth-data/geth/chaindata cache=128 handles=1024
+INFO [10-14|07:22:48] Writing default main-net genesis block 
+INFO [10-14|07:22:50] Initialised chain configuration          config="{ChainID: 1 Homestead: 1150000 DAO: 1920000 DAOSupport: true EIP150: 2463000 EIP155: 2675000 EIP158: 2675000 Byzantium: 4370000 Engine: ethash}"
+INFO [10-14|07:22:50] Disk storage enabled for ethash caches   dir=/home/yash/hackdtu/eth-new/eth-data/geth/ethash count=3
+INFO [10-14|07:22:50] Disk storage enabled for ethash DAGs     dir=/home/yash/.ethash                              count=2
+INFO [10-14|07:22:50] Initialising Ethereum protocol           versions="[63 62]" network=123
+INFO [10-14|07:22:50] Loaded most recent local header          number=0 hash=d4e567…cb8fa3 td=17179869184
+INFO [10-14|07:22:50] Loaded most recent local full block      number=0 hash=d4e567…cb8fa3 td=17179869184
+INFO [10-14|07:22:50] Loaded most recent local fast block      number=0 hash=d4e567…cb8fa3 td=17179869184
+INFO [10-14|07:22:50] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [10-14|07:22:50] Starting P2P networking 
+INFO [10-14|07:22:50] RLPx listener up                         self="enode://eb04616a95f7c2618e6af929cd4fa8a3486632da1e663975655dbd19335e5fd90c2d61c94258673e18859a685e45bae4807accd966020e9af53f0c5e55c2979b@[::]:30303?discport=0"
+INFO [10-14|07:22:50] Transaction pool price threshold updated price=18000000000
+ERROR[10-14|07:22:50] Cannot start mining without etherbase    err="etherbase address must be explicitly specified"
+Fatal: Failed to start mining: etherbase missing: etherbase address must be explicitly specified
+WARN [10-14|07:26:35] No etherbase set and no accounts found as default 
+INFO [10-14|07:26:35] Starting peer-to-peer node               instance=Geth/v1.7.1-stable-05101641/linux-amd64/go1.9
+INFO [10-14|07:26:35] Allocated cache and file handles         database=/home/yash/hackdtu/eth-new/eth-data/geth/chaindata cache=128 handles=1024
+INFO [10-14|07:26:35] Initialised chain configuration          config="{ChainID: 1 Homestead: 1150000 DAO: 1920000 DAOSupport: true EIP150: 2463000 EIP155: 2675000 EIP158: 2675000 Byzantium: 4370000 Engine: ethash}"
+INFO [10-14|07:26:35] Disk storage enabled for ethash caches   dir=/home/yash/hackdtu/eth-new/eth-data/geth/ethash count=3
+INFO [10-14|07:26:35] Disk storage enabled for ethash DAGs     dir=/home/yash/.ethash                              count=2
+INFO [10-14|07:26:35] Initialising Ethereum protocol           versions="[63 62]" network=123
+INFO [10-14|07:26:35] Loaded most recent local header          number=0 hash=d4e567…cb8fa3 td=17179869184
+INFO [10-14|07:26:35] Loaded most recent local full block      number=0 hash=d4e567…cb8fa3 td=17179869184
+INFO [10-14|07:26:35] Loaded most recent local fast block      number=0 hash=d4e567…cb8fa3 td=17179869184
+INFO [10-14|07:26:35] Loaded local transaction journal         transactions=0 dropped=0
+INFO [10-14|07:26:35] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [10-14|07:26:35] Starting P2P networking 
+INFO [10-14|07:26:35] RLPx listener up                         self="enode://eb04616a95f7c2618e6af929cd4fa8a3486632da1e663975655dbd19335e5fd90c2d61c94258673e18859a685e45bae4807accd966020e9af53f0c5e55c2979b@[::]:30303?discport=0"
+INFO [10-14|07:26:35] Transaction pool price threshold updated price=18000000000
+ERROR[10-14|07:26:35] Cannot start mining without etherbase    err="etherbase address must be explicitly specified"
+Fatal: Failed to start mining: etherbase missing: etherbase address must be explicitly specified
+WARN [10-14|07:26:54] No etherbase set and no accounts found as default 
+INFO [10-14|07:26:54] Starting peer-to-peer node               instance=Geth/v1.7.1-stable-05101641/linux-amd64/go1.9
+INFO [10-14|07:26:54] Allocated cache and file handles         database=/home/yash/hackdtu/eth-new/eth-data/geth/chaindata cache=128 handles=1024
+INFO [10-14|07:26:54] Initialised chain configuration          config="{ChainID: 1 Homestead: 1150000 DAO: 1920000 DAOSupport: true EIP150: 2463000 EIP155: 2675000 EIP158: 2675000 Byzantium: 4370000 Engine: ethash}"
+INFO [10-14|07:26:54] Disk storage enabled for ethash caches   dir=/home/yash/hackdtu/eth-new/eth-data/geth/ethash count=3
+INFO [10-14|07:26:54] Disk storage enabled for ethash DAGs     dir=/home/yash/.ethash                              count=2
+INFO [10-14|07:26:54] Initialising Ethereum protocol           versions="[63 62]" network=123
+INFO [10-14|07:26:54] Loaded most recent local header          number=0 hash=d4e567…cb8fa3 td=17179869184
+INFO [10-14|07:26:54] Loaded most recent local full block      number=0 hash=d4e567…cb8fa3 td=17179869184
+INFO [10-14|07:26:54] Loaded most recent local fast block      number=0 hash=d4e567…cb8fa3 td=17179869184
+INFO [10-14|07:26:54] Loaded local transaction journal         transactions=0 dropped=0
+INFO [10-14|07:26:54] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [10-14|07:26:54] Starting P2P networking 
+INFO [10-14|07:26:54] RLPx listener up                         self="enode://eb04616a95f7c2618e6af929cd4fa8a3486632da1e663975655dbd19335e5fd90c2d61c94258673e18859a685e45bae4807accd966020e9af53f0c5e55c2979b@[::]:30303?discport=0"
+INFO [10-14|07:26:54] Transaction pool price threshold updated price=18000000000
+ERROR[10-14|07:26:54] Cannot start mining without etherbase    err="etherbase address must be explicitly specified"
+Fatal: Failed to start mining: etherbase missing: etherbase address must be explicitly specified
