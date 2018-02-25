@@ -1,4 +1,4 @@
-# hackdtu
+# HackDTU
 
 ### Theme
 Blockchain
